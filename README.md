@@ -4,14 +4,14 @@
 
 ```JavaScript
 const aboutMe = {
-  name: 'Italo Rockenbach',
+  name: 'Arthur Ussuy',
   age: '27',
   rank: 'Web Developer',
   country: 'Brazil',
   hobbies: [
-    'play games',
-    'watch movies',
-    'listen to music',
+    'ride bike',
+    'read mangas',
+    'dance',
   ],
   softSkills: [
     'communication',
@@ -23,11 +23,12 @@ const aboutMe = {
 
 function contactMe() {
   return {
-    email: 'italorockamaral@gmail.com',
-    linkedin: 'https://www.linkedin.com/in/italo-rockenbach/',
+    email: 'artussuy7@gmail.com',
+    linkedin: 'https://www.linkedin.com/in/arthur-ferrari-255940138/',
   }
 }
 ```
+
 <br>
 
 <img src="./images/knowledge.png" alt="Knowledge Banner" width="100%"/>
@@ -103,4 +104,3 @@ function contactMe() {
 <br>
 
 <img src="./images/blank_banner.png" alt="Blank Banner" width="100%"/>
-
