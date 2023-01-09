@@ -83,23 +83,13 @@ function contactMe() {
 <br>
 
 <section align="center"> 
-  <a href="https://www.instagram.com/italoramaral/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.linkedin.com/in/italo-rockenbach-594082132/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <!-- <a href="https://www.linkedin.com/in/italo-rockenbach-594082132/" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>   -->
+ 	<a href="https://www.linkedin.com/in/arthur-ferrari-255940138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <!-- <a href="https://www.linkedin.com/in/arthur-ferrari-255940138/" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>   -->
 </section>
 
 <br>
 
 <img src="./images/statistics.png" alt="Github Statistics Banner" width="100%"/>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/ItaloRAmaral">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=ItaloRAmaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloRAmaral&layout=compact&langs_count=7&theme=dracula"/>
-    <!-- <img heigh height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=ItaloRAmaral&theme=dark&fire=2FC18C&ring=2FC18C&background=1A1D21&currStreakLabel=2FC18C"/> -->
-</div>
 
 <br>
 
